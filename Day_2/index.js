@@ -86,3 +86,34 @@ console.log("The quote 'There is no exercise better for the heart than reaching 
 
 // solution 2
 console.log("Love is not patronizing and charity isn't about pity, it is about love. Charity and love are the same -- with charity you give love, so don't just give money but reach out your hand instead.")
+
+// solution 3
+console.log(typeof 10)
+
+// solution 6
+let course = "I hope this course is not full of jargon."
+console.log(course.includes("jargon"))
+
+// solution 7
+let ranNumber = Math.floor(Math.random() * 101);
+console.log(ranNumber);
+
+// solution 8
+let randomNumber = Math.floor(Math.random() * (51) + 50);
+console.log(randomNumber);
+
+// solution 9
+let random = Math.floor(Math.random() * 255)
+console.log(random)
+
+// solution 12
+console.log(soluTion.substring(30, 54))
+
+// Exercise level 3
+// solution 1
+let love = "Love is the best thing in this world. Some found their love and some are still looking for their love."
+console.log(love.match("love"))
+
+
+
+
